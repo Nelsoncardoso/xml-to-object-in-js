@@ -4,12 +4,12 @@ let xml = `<?xml version="1.0"?>
 <CFe>
   <infCFe versaoDadosEnt="0.07">
     <ide>
-      <CNPJ>08427847000169</CNPJ>
-      <signAC>SGR-SAT SISTEMA DE GESTAO E RETAGUARDA DO SAT</signAC>
+      <CNPJ>71839397000158</CNPJ>
+      <signAC>NOME DA EMPRESA</signAC>
       <numeroCaixa>001</numeroCaixa>
     </ide>
     <emit>
-      <CNPJ>61099008000141</CNPJ>
+      <CNPJ>43250046000171</CNPJ>
       <IE>111111111111</IE>
       <IM>12345</IM>
       <cRegTribISSQN>3</cRegTribISSQN>
@@ -20,7 +20,7 @@ let xml = `<?xml version="1.0"?>
       <prod>
         <cProd>116</cProd>
         <cEAN>9990000001163</cEAN>
-        <xProd>Cascao</xProd>
+        <xProd>Janela</xProd>
         <CFOP>5405</CFOP>
         <uCom>UN</uCom>
         <qCom>1.0000</qCom>
